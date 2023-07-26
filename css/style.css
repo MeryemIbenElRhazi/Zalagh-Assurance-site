@@ -310,7 +310,7 @@ transform: matrix(1, 0, 0, 1, 0, 0) scale(1.2);}
           transform:translateY(-50%);
 }
 .logmer {
-  width:95px;
+  width:73px;
 }
 .header-two .theme-menu-wrapper .right-widget ul li {line-height: 97px;}
 .header-two .theme-menu-wrapper .right-widget .search-option .dropdown-toggle {width: auto;color: #555555;}
@@ -930,8 +930,8 @@ height: 300px;
 }
 .containerr {
   display: flex;
-  margin-left: 20%;
-  justify-content: space-between;
+  margin-left: 10%;
+  justify-content: center;
 }
 .containerr img{
    width: 50%;
